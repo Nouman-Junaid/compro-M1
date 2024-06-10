@@ -13,3 +13,9 @@ if (close) {
         nav.classList.remove('active');
     })
 }
+@media (max-width: 477px){
+    #header {
+        padding: 10px 30px;
+
+    }
+}
