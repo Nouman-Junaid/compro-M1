@@ -118,6 +118,11 @@ color:#088178;
     bottom: -4px;
     left: 20px;
 }
+#mobile{
+    
+    align-items: center;
+    display: none;
+}
 
 /*Homepage*/
 #hero{
@@ -415,4 +420,9 @@ color: #088178;
 }
 #navbar li{
     margin-bottom: 25px;
+}
+#mobile{
+    
+    display: flex;
+    align-items: center;
 }
