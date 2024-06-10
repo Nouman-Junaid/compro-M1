@@ -120,8 +120,8 @@ color:#088178;
 }
 #mobile{
     
-    align-items: center;
     display: none;
+    align-items: center;
 }
 
 /*Homepage*/
@@ -425,4 +425,9 @@ color: #088178;
     
     display: flex;
     align-items: center;
+}
+#mobile{
+    color: #1a1a1a;
+    font-size: 24px;
+    padding-left: 20px;
 }
