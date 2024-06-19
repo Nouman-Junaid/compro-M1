@@ -403,6 +403,10 @@ footer a:hover {
 color: #088178;
 }
 
+#page-header .about-header{
+    background-image: url(./happy-beautiful-asian-shopaholic-woman-260nw-1278669220.webp);
+    }
+
 /*START MEDIA QUERY from here*/
 /*add name*/
 @media (max-width:799px) {
