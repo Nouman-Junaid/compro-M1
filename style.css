@@ -404,7 +404,11 @@ color: #088178;
 }
 
 #page-header .about-header{
-    background-image: url(./happy-beautiful-asian-shopaholic-woman-260nw-1278669220.webp);
+    background-image: url("./images.png");
+    }
+    #about-head img{
+width: 50%;
+height: auto;
     }
 
 /*START MEDIA QUERY from here*/
